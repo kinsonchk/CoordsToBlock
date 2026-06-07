@@ -3,3 +3,8 @@ version: '${version}'
 
 main: me.ksmc.minecraftSpigotPlugin.MinecraftSpigotPlugin
 api-version: '1.21'
+
+commands:
+  ctb:
+    description: Converts a real-world coordinate location to a Minecraft block position.
+    usage: /ctb <> <>
