@@ -1,0 +1,5 @@
+name: MinecraftSpigotPlugin
+version: '${version}'
+
+main: me.ksmc.minecraftSpigotPlugin.MinecraftSpigotPlugin
+api-version: '1.21'
