@@ -1,10 +1,27 @@
 name: MinecraftSpigotPlugin
 version: '${version}'
 
-main: me.ksmc.minecraftSpigotPlugin.MinecraftSpigotPlugin
+main: me.ksmc.minecraftSpigotPlugin.Main
 api-version: '1.21'
 
 commands:
   ctb:
-    description: Converts a real-world coordinate location to a Minecraft block position.
-    usage: /ctb <> <>
+    description: |-
+      Converts a real-world coordinate location to a Minecraft block position.
+      --------------------------------------------------
+    usage: |-
+      Syntax: /<command> [1] [2] [3]
+      
+      [1] Real-world coordinate boundaries (LAT/LONG):
+      <west_LONG> <south_LAT> <east_LONG> <north_LAT>
+      
+      [2] Minecraft world's boundary positions (X/Z):
+      <top-left_X> <top-left_Z> <bottom-right_X> <bottom-right_Z>
+      
+      [3] Target pos in real-world coords to convert (LAT/LONG):
+      <target_LAT> <target_LONG>
+      
+      --------------------------------------------------
+      Example:
+      /ctb -74.0 45.4 -73.4 45.7 0 0 8900 5400 45.470358 -73.538817
+      --------------------------------------------------
