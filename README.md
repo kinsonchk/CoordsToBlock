@@ -1,4 +1,4 @@
-This plugin only has one command: "ctb"
+This plugin only has one command: "ctb".
 Any player (OP or not) can use this command. You can also use this command through the server console.
 
 Syntax: /ctb [1] [2] [3]
