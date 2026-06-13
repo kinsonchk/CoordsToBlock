@@ -1,4 +1,5 @@
 This plugin only has one command: "ctb"
+Any player (OP or not) can use this command. You can also use this command through the server console.
 
 Syntax: /ctb [1] [2] [3]
 
@@ -8,6 +9,12 @@ Syntax: /ctb [1] [2] [3]
 
 [3] Target pos in real-world coords to convert (LAT/LONG): <target_LAT> <target_LONG>
 
+==========
 
-Example:
+Example usage:
+
+Command input:
 /ctb -74.0 45.4 -73.4 45.7 0 0 8900 5400 45.470358 -73.538817
+
+Output:
+CONVERTED BLOCK POSITION (X, Z): 6841, 4134
