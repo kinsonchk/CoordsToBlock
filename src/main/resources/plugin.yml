@@ -1,8 +1,8 @@
-name: MinecraftSpigotPlugin
+name: CoordsToBlockPosConverter
 version: '${version}'
 
 main: me.ksmc.minecraftSpigotPlugin.Main
-api-version: '1.21'
+api-version: '1.19'
 
 commands:
   ctb:
