@@ -1,5 +1,9 @@
 This plugin converts a real-world coordinate location to a Minecraft block position.
 
+Video explanation and example walkthrough: https://www.youtube.com/watch?v=3ZXC56hAl9k
+
+==========
+
 You need:
 1. The real-world coordinate boundaries (in latitude and longitude decimal degree format) of the area that you're trying to convert
 2. The Minecraft world's boundary positions (top-left and bottom-right block positions)
