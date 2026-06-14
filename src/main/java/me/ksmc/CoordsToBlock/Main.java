@@ -1,6 +1,6 @@
-package me.ksmc.minecraftSpigotPlugin;
+package me.ksmc.CoordsToBlock;
 
-import me.ksmc.minecraftSpigotPlugin.Commands.CTBCommand;
+import me.ksmc.CoordsToBlock.Commands.CTBCommand;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class Main extends JavaPlugin {

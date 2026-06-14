@@ -1,4 +1,4 @@
-package me.ksmc.minecraftSpigotPlugin.Commands;
+package me.ksmc.CoordsToBlock.Commands;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;

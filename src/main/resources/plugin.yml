@@ -1,7 +1,7 @@
-name: CoordsToBlockPosConverter
+name: CoordsToBlock
 version: '${version}'
 
-main: me.ksmc.minecraftSpigotPlugin.Main
+main: me.ksmc.CoordsToBlock.Main
 api-version: '1.19'
 
 commands:
