@@ -58,6 +58,7 @@ public class CTBCommand implements CommandExecutor {
             return false;
         }
 
+        // this is to prevent a zero division from happening
         if (eastLong == westLong || northLat == southLat) {
             sender.sendMessage(ChatColor.RED + "Error: Coordinate boundaries cannot be identical.");
             return false;
