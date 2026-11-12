@@ -37,5 +37,5 @@ Output:
 CONVERTED BLOCK POSITION (X, Z): **6841, 4134**
 
 <a href="https://www.youtube.com/watch?v=tQuyhljoy0I">
-  <img width="1357" height="675" alt="2026-11-11_19 31 58" src="https://github.com/user-attachments/assets/fd40e2b6-c1e4-4613-a4ec-d45ed316ca52" />
+  <img width="1357" height="675" alt="2026-11-11_19 36 02" src="https://github.com/user-attachments/assets/2fffcb39-8e39-4f2e-8db0-a0cfbe4241e0" />
 </a>
